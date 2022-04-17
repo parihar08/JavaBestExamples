@@ -4,8 +4,8 @@ import java.util.Arrays;
 
 public class AnagramStrings {
 	
-	//Git Token
-	//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
+	//Git Token updated
+	//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
 
 	public static void main(String[] args) {
 		//Anagram Strings means if two Strings are made from same characters
